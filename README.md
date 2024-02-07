@@ -2,7 +2,7 @@ feedbro-locale
 
 Feedbro RSS 
 
-INDIOMA: Portugues do brasil
+IDIOMA: Portugues do brasil
 
 Você pode baixar o Feedbro em: https://nodetics.com/feedbro/
 
