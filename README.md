@@ -6,7 +6,7 @@ IDIOMA: Portugues do brasil
 
 Você pode baixar o Feedbro em: https://nodetics.com/feedbro/
 
-Insira o  link abixo nas configurações do Feedbro para mudar a interface do usuário para Português do Brasil
+Insira o  link abaixo nas configurações do Feedbro para mudar a interface do usuário para Português do Brasil
 
 Feedbro: Option/Settings Page -> User interface language -> Import locale
 
