@@ -1,5 +1,14 @@
-E ai, tudo bem? 
-Se chegou até aqui procurando um arquivo (.json) de tradução para o Feedbro, sua procura acaba aqui!
-Pesquisei bastante e não tinha achado nenhum, então resolvi eu mesmo fazer uma tradução "a la google", para facilitar o uso do nosso querido Feedbro.
-Copie a url do arquivo que tem aqui no repositório, e insira no seu leitor feed, que ele irá carregar automaticamente o idioma.
-Essa tradução está sendo feita em "07FEV24".
+feedbro-locale
+Feedbro RSS idioma Portugues do brasil
+
+Você pode baixar o Feedbro em: https://nodetics.com/feedbro/
+
+Insira o  link abixo nas configurações do Feedbro para mudar a interface do usuário para Português do Brasil
+
+Feedbro: Option/Settings Page -> User interface language -> Import locale
+
+Selecione Português (pt_BR).
+
+Essa tradução foi feita em "07FEV24".
+
+https://raw.githubusercontent.com/ruideglan/Feedbro_pt_BR/main/feedbro-locale-pt_BR.json
