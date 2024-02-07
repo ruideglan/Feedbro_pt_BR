@@ -2,9 +2,9 @@
    "meta":{
       "manifest_version":1,
       "locale_version":"1.0",
-      "locale_name":"Portugues_Brasil",
+      "locale_name":"Portugues",
       "locale_type":"pt_BR",
-      "locale_last_updated":"2024-02-07 12:00:00 UTC",
+      "locale_last_updated":"2024-07-02 15:00:00 UTC",
       "locale_author_name":"Ruideglan Lucena",
       "locale_author_email":"nops@gmail.com",
       "locale_source_url":"https://nodetics.com/feedbro/"
