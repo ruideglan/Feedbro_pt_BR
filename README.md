@@ -1,5 +1,8 @@
 feedbro-locale
-Feedbro RSS idioma Portugues do brasil
+
+Feedbro RSS 
+
+INDIOMA: Portugues do brasil
 
 Você pode baixar o Feedbro em: https://nodetics.com/feedbro/
 
